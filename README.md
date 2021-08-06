@@ -1,7 +1,7 @@
 # exposure-render-for-Linux  
 Super Volume Render of Monte Carlo Path tracing for Linux  
 ## Introduction  
-The code is mainly for volume render of Monte Carlo Path tracing running on Linux.  
+The code is a Linux distribution of exposure render.
 
 ## Dependency  
 QT 5.14   (maybe 5.12+)  
@@ -18,3 +18,9 @@ make
 ./ExposureRender  
 ```
 
+##Reference  
+
+An interactive photo-realistic volume rendering framework
+T. Kroes, F. H. Post, C. P. Botha
+Visibility sweeps for joint-hierarchical importance sampling of direct lighting for stochastic volume rendering
+T. Kroes, M. Eisemann, E. Eisemann
