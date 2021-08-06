@@ -11,6 +11,7 @@ GCC 9
 
 ## BUILD && RUN  
 ```
+cd source
 mkdir build  
 cd build
 cmake ..  
