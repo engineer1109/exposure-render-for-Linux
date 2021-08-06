@@ -18,7 +18,7 @@ make
 ./ExposureRender  
 ```
 
-##Reference  
+## Reference  
 
 An interactive photo-realistic volume rendering framework
 T. Kroes, F. H. Post, C. P. Botha
